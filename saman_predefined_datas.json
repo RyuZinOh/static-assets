@@ -1,0 +1,10 @@
+{
+  "backgrounds": {
+    "1.jpg": ["Gojo Satoru floats calmly in the night sky", 1000],
+    "2.jpg": ["Goku, in  mastered Ultra Instinct, radiates cosmic power.", 5000]
+  },
+  "cards": {
+    "1.jpg": ["Sasuke joins Akatsuki", 800],
+    "2.jpg": ["Goku transforms into Super Saiyan", 1200]
+  }
+}
