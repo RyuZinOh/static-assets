@@ -1,10 +1,29 @@
 {
   "backgrounds": {
     "1.jpg": ["Gojo Satoru floats calmly in the night sky", 1000],
-    "2.jpg": ["Goku, in  mastered Ultra Instinct, radiates cosmic power.", 5000]
+    "2.jpg": [
+      "Goku, in  mastered Ultra Instinct, radiates cosmic power.",
+      5000
+    ],
+    "3.jpg": ["Goku, in  Ultra Instinct, ekkari", 4000],
+    "4.jpg": ["broly, legendary suoer sayan ", 6000],
+    "5.jpg": ["asta, coutering magic with his anti magic", 2500],
+    "6.jpg": ["sasuke uchiha, the last of the uchichas", 2000],
+    "7.jpg": ["sasuke, form the akatsuki", 3000],
+    "8.jpg": ["giyu tomiyoka, at the silent epitome", 3500],
+    "9.jpg": ["sasuke x naruto, rivalries beginning", 1500],
+    "10.jpg": ["GTR, u know everyone wants it but few gets it", 700]
   },
   "cards": {
     "1.jpg": ["Sasuke joins Akatsuki", 800],
-    "2.jpg": ["Goku transforms into Super Saiyan", 1200]
+    "2.jpg": ["Goku transforms into Super Saiyan", 1200],
+    "3.jpg": ["Gojo satoru shocasing purple hollow", 700],
+    "4.jpg": ["senku abou tto create something", 950],
+    "5.jpg": ["seishiro nagi from the blue lock", 1000],
+    "6.jpg": ["bachira meguru with his shinanigans", 999],
+    "7.jpg": ["kaguya sama schemeing something?", 2400],
+    "8.jpg": ["Esdeath thicc as usual ", 2800],
+    "9.jpg": ["byuakuya kuchiki , senoun jakura kageyoshi", 1100],
+    "10.jpg": ["killua zoldyk, HXH", 800]
   }
 }
