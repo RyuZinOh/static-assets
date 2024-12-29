@@ -3,7 +3,10 @@
     "1.jpg": ["Gojo Satoru chilling like a boss in the night sky", 1000],
     "2.jpg": ["Goku, in mastered Ultra Instinct, flexing cosmic swag", 5000],
     "3.jpg": ["Goku, in Ultra Instinct, lookin' fancy", 4000],
-    "4.jpg": ["Broly, the beefiest Super Saiyan, breaking limits (and necks)", 6000],
+    "4.jpg": [
+      "Broly, the beefiest Super Saiyan, breaking limits (and necks)",
+      6000
+    ],
     "5.jpg": ["Asta, going 'no magic? No problem!' with anti-magic", 2500],
     "6.jpg": ["Sasuke Uchiha, emo king of the Uchihas", 2000],
     "7.jpg": ["Sasuke rocking Akatsuki drip", 3000],
@@ -42,11 +45,23 @@
     "18.jpg": ["Killua: Assassin mode but make it cute", 2800],
     "19.jpg": ["God Usopp: Living the dream (sorta)", 3900],
     "20.jpg": ["Kurapika: Chains and revenge on his mind", 1800],
-    "21.jpg": ["Giyu Tomiyoka: The quiet water dude with mad sword skills", 2500],
-    "22.jpg": ["L from Death Note: World-class detective or sleepy raccoon?", 2000],
+    "21.jpg": [
+      "Giyu Tomiyoka: The quiet water dude with mad sword skills",
+      2500
+    ],
+    "22.jpg": [
+      "L from Death Note: World-class detective or sleepy raccoon?",
+      2000
+    ],
     "23.jpg": ["Shanks: Coolest uncle in the pirate world", 3500],
-    "24.jpg": ["Gon Freecss: Boy with boundless energy and questionable choices", 2200],
-    "25.jpg": ["Light Yagami: Just a regular student... with a god complex", 2200],
+    "24.jpg": [
+      "Gon Freecss: Boy with boundless energy and questionable choices",
+      2200
+    ],
+    "25.jpg": [
+      "Light Yagami: Just a regular student... with a god complex",
+      2200
+    ],
     "26.jpg": ["Rin Okumura: Half-demon, full sass", 2600],
     "27.jpg": ["Sanji: 'At your service, m' lade'", 1500],
     "28.jpg": ["Franky: Cyborg dude flexing his super coolness", 1400],
