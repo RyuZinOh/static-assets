@@ -52,7 +52,145 @@
     "47.jpg": ["Bunny Girl: hops, sass, and class", 3300],
     "48.jpg": ["Marin: succubus vibes, zero shame", 3700],
     "49.jpg": ["Ai Hoshino: idol by day, heartbreaker always", 3900],
-    "50.jpg": ["Miku: twin tails, endless charm", 3200]
+    "50.jpg": ["Miku: twin tails, endless charm", 3200],
+    "51.jpg": ["Miku: Twintails, popstar magic", 3500],
+    "52.jpg": ["Yato: God of Strays, still lost", 3300],
+    "53.jpg": ["Zoro: Swords, strength, no map", 3800],
+    "54.jpg": ["Levi: Clean freak, fight machine", 4500],
+    "55.jpg": ["Groudon: Ground shakes, earth quakes", 3700],
+    "56.jpg": ["Loki: Mischief, chaos, charm", 4200],
+    "57.jpg": ["Peaky Blinders: Suits and threats", 3800],
+    "58.jpg": ["Hoyo Art: Magic on paper", 3600],
+    "59.jpg": ["Raiden Shogun: Shockingly powerful", 4100],
+    "60.jpg": ["SSJ3 Goku: Super Saiyan, super hair", 4700],
+    "61.jpg": ["Madara: Power, pride, and pain", 4600],
+    "62.jpg": ["Kakashi: Mask on, skills off the charts", 4400],
+    "63.jpg": ["Groot: I am Groot... and that's it", 3300],
+    "64.jpg": ["Yoda: Wise, tiny, strong", 3600],
+    "65.jpg": ["Raiden Shogun: Eternal thunder", 4200],
+    "66.jpg": ["Ben 10: Hero with 10 faces", 3400],
+    "67.jpg": ["Killua: Assassin vibes, kid's heart", 3700],
+    "68.jpg": ["Jin Mori: Monkey King, kid version", 3500],
+    "69.png": ["Solo Leveling: From weak to peak", 4500],
+    "70.jpg": ["Jirachi: Wishing on a star", 3200],
+    "71.jpg": ["Yoru (War Devil): Chaos with a smile", 4200],
+    "72.jpg": ["Power (Chainsaw Man): Bloodthirsty and lovable", 4500],
+    "73.jpg": ["Saber (Fate): Heroic, honorable, and sword-swinging", 4800],
+    "74.jpg": ["Kazutora (Tokyo Revengers): Troubled soul, sharp edge", 4000],
+    "75.jpg": ["RX-78-2 Gundam: The original mobile suit legend", 5000],
+    "76.jpg": ["Kaneki (Tokyo Ghoul): Half ghoul, full tragedy", 4700],
+    "77.jpg": [
+      "Gojo Satoru (Jujutsu Kaisen): Limitless power, limitless charm",
+      5200
+    ],
+    "78.jpg": ["Itsuki Nakano: Quiet, cute, and full of surprises", 3900],
+    "79.jpg": ["Nino Nakano: Sassy, stubborn, and a heart of gold", 4000],
+    "80.jpg": [
+      "Sukuna (Jujutsu Kaisen): King of Curses, unrivaled menace",
+      5500
+    ],
+    "81.png": [
+      "Yamada Asaemon (Hell's Paradise): Executioner with a deadly edge",
+      4200
+    ],
+    "82.jpg": [
+      "Hu Tao (Genshin Impact): Mischievous, playful, and fiery",
+      4400
+    ],
+    "83.jpg": [
+      "Zhongli (Genshin Impact): Rock solid, stone-cold elegance",
+      4800
+    ],
+    "84.jpg": ["Itachi Uchiha (Naruto): Tragic genius, silent strength", 4800],
+    "85.jpg": ["Itachi Uchiha (Naruto): The brooding avenger", 4800],
+    "86.jpg": [
+      "Gojo Satoru (Jujutsu Kaisen): Infinite power, infinite charisma",
+      5200
+    ],
+    "87.jpg": ["Gojo Satoru (Jujutsu Kaisen): Sorcerer of legends", 5200],
+    "88.jpg": ["Rem (Re:Zero): Cute, loyal, and deadly", 4500],
+    "89.jpg": ["Ulquiorra (Bleach): Cold, powerful, and mysterious", 4700],
+    "90.jpg": ["Attarks: Mysterious, silent, deadly", 4200],
+    "91.jpg": ["Aizen (Bleach): Mastermind with unmatched intellect", 5000],
+    "92.jpg": ["Konoha Village: Hidden leaf, hidden strength", 4500],
+    "93.png": ["Shanks (One Piece): Pirate King’s right hand", 5200],
+    "94.png": [
+      "Keqing (Genshin Impact): Lightning sword, electrifying elegance",
+      4600
+    ],
+    "95.png": ["Masked Free Fire Outfit: Stealth mode activated", 4200],
+    "96.png": [
+      "Kakashi Hatake (Naruto): Masked mystery, legendary ninja",
+      4800
+    ],
+    "97.jpg": ["Animator Artist Girl: Creative genius, brush in hand", 4300],
+    "98.png": ["Zaraki Kenpachi (Bleach): Wild, untamed power", 4900],
+    "99.png": [
+      "Tsundere Anime Girl: Cute, fiery, and totally complicated",
+      4000
+    ],
+    "100.png": ["Toji Fushigoro (Jujutsu Kaisen): The ultimate assassin", 4800],
+    "101.png": ["Goku and Vegeta (Dragon Ball): Rivals, heroes, legends", 5200],
+    "102.jpg": ["Free Delayoua: Cool, stylish, and laid back", 4500],
+    "103.jpg": [
+      "Elaine (The Witch and the Winding): Mysterious, dark, and enchanting",
+      4600
+    ],
+    "104.png": [
+      "Armored Titan (Attack on Titan): Steel-plated destruction",
+      5000
+    ],
+    "105.jpg": [
+      "Mikasa Ackerman (Attack on Titan): Unyielding loyalty, fierce warrior",
+      4900
+    ],
+    "106.jpg": [
+      "Mikasa Ackerman (Attack on Titan): The strength of a soldier, the heart of a protector",
+      4900
+    ],
+    "107.png": [
+      "Yor Forger (Spy x Family): Assassin by day, loving wife by night",
+      4600
+    ],
+    "108.png": ["Anime Girl Nostalgic Vibe: Classic charm, retro magic", 4200],
+    "109.png": [
+      "Pain (Akatsuki, Naruto): Pain's philosophy, powerful wrath",
+      5100
+    ],
+    "110.jpg": [
+      "Dazai Osamu (Bungou Stray Dogs): Witty, tragic, and existential",
+      4700
+    ],
+    "111.png": [
+      "Gojo Satoru (Purple Hollow, Jujutsu Kaisen): Infinite power in a purple haze",
+      5400
+    ],
+    "112.jpg": [
+      "Zenitsu Agatsuma (Demon Slayer): Thunderstruck and heroic",
+      4600
+    ],
+    "113.jpg": [
+      "Tanjiro, Zenitsu, Inosuke (Demon Slayer): The trio of determination",
+      4800
+    ],
+    "114.jpg": [
+      "Gojo Satoru (Jujutsu Kaisen): Infinite power, limitless charm",
+      5400
+    ],
+    "115.jpg": [
+      "Uzui Tengen (Demon Slayer): Flashy, flashy, and fearless",
+      4900
+    ],
+    "116.png": [
+      "Makima (Chainsaw Man): Mysterious, controlling, and captivating",
+      5100
+    ],
+    "117.jpg": ["Sakuma: Quiet strength, cool demeanor", 4200],
+    "118.jpg": [
+      "Gojo Team (Jujutsu Kaisen): Sorcerers of unrivaled power",
+      5300
+    ],
+    "119.jpg": ["Some Forest: Mystical, serene, and full of secrets", 4000]
   },
   "cards": {
     "1.jpg": ["Sasuke joins Akatsuki: Now 100% edgier!", 800],
