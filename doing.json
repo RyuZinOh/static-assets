@@ -1,0 +1,24 @@
+{
+    "repositories": [
+      {
+        "name": "Artistry",
+        "url": "https://github.com/Happilli/Artistry",
+        "motive": "A platform for me to show you'all aobu tmy arts, digital arts and manga i will be creating."
+      },
+      {
+        "name": "Serena Front",
+        "url": "https://github.com/RyuZinOh/serena-FRONTEND",
+        "motive": "Frontend for Serena, my cutepie project for pokemons which i love haha!"
+      },
+      {
+        "name": "Serena Backend",
+        "url": "https://github.com/RyuZinOh/serena-BACKEND-",
+        "motive": "Backend for Serena, handling APIs and database operations."
+      },
+      {
+        "name": "projectBCA",
+        "url": "https://github.com/Loftyvirus/projectBCA",
+        "motive": "providing students BCA question papers related to pokhara university."
+      }
+    ]
+  }
