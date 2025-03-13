@@ -1,24 +1,29 @@
 {
-    "repositories": [
-      {
-        "name": "Artistry",
-        "url": "https://github.com/Happilli/Artistry",
-        "motive": "A platform for me to show you'all aobut my arts, digital arts and manga i will be creating."
-      },
-      {
-        "name": "Serena Front",
-        "url": "https://github.com/RyuZinOh/serena-FRONTEND",
-        "motive": "Frontend for Serena, my cutepie project for pokemons which i love haha!"
-      },
-      {
-        "name": "Serena Backend",
-        "url": "https://github.com/RyuZinOh/serena-BACKEND-",
-        "motive": "Backend for Serena, handling APIs and database operations."
-      },
-      {
-        "name": "projectBCA",
-        "url": "https://github.com/Loftyvirus/projectBCA",
-        "motive": "providing students BCA question papers related to pokhara university."
-      }
-    ]
-  }
+  "repositories": [
+    {
+      "name": "nepalibabu jekyll theme",
+      "url": "https://github.com/Loftyvirus/nepalibabu-nepali",
+      "motive": "A jekyll theme creation based on the nepal as main theme to store blog, as a portfoio and other."
+    },
+    {
+      "name": "Artistry",
+      "url": "https://github.com/Happilli/Artistry",
+      "motive": "A platform for me to show you'all aobut my arts, digital arts and manga i will be creating."
+    },
+    {
+      "name": "Serena Front",
+      "url": "https://github.com/RyuZinOh/serena-FRONTEND",
+      "motive": "Frontend for Serena, my cutepie project for pokemons which i love haha!"
+    },
+    {
+      "name": "Serena Backend",
+      "url": "https://github.com/RyuZinOh/serena-BACKEND-",
+      "motive": "Backend for Serena, handling APIs and database operations."
+    },
+    {
+      "name": "projectBCA",
+      "url": "https://github.com/Loftyvirus/projectBCA",
+      "motive": "providing students BCA question papers related to pokhara university."
+    }
+  ]
+}
