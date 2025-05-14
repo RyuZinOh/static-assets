@@ -1,11 +1,6 @@
 {
   "repositories": [
     {
-      "name": "nepalibabu jekyll theme",
-      "url": "https://github.com/Loftyvirus/nepalibabu-nepali/tree/reWrite",
-      "motive": "Rewriting it."
-    },
-    {
       "name": "Serena Front",
       "url": "https://github.com/RyuZinOh/serena-FRONTEND",
       "motive": "Frontend for Serena, my cutepie project for pokemons which i love haha!"
@@ -19,6 +14,11 @@
       "name": "Saman",
       "url": "https://github.com/RyuZinOh/saman-ecommerce/tree/reWrite_ui",
       "motive": "Rewriting it."
+    },
+    {
+      "name": "Learning rust",
+      "url": "#",
+      "motive": "To get into lowlevel as possible"
     }
   ]
 }
