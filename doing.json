@@ -1,24 +1,9 @@
 {
   "repositories": [
     {
-      "name": "Serena Front",
-      "url": "https://github.com/RyuZinOh/serena-FRONTEND",
-      "motive": "Frontend for Serena, my cutepie project for pokemons which i love haha!"
-    },
-    {
-      "name": "Serena Backend",
-      "url": "https://github.com/RyuZinOh/serena-BACKEND-",
-      "motive": "Backend for Serena, handling APIs and database operations."
-    },
-    {
-      "name": "Saman",
-      "url": "https://github.com/RyuZinOh/saman-ecommerce/tree/reWrite_ui",
-      "motive": "Rewriting it."
-    },
-    {
-      "name": "Learning rust",
+      "name": "Learning Rust",
       "url": "#",
-      "motive": "To get into lowlevel as possible"
+      "motive": "To get into lowlevel as possible!"
     }
   ]
 }
