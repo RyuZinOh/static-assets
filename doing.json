@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "name": "Learning Rust",
+      "url": "#",
+      "motive": "To get into Lowlevel as possible!"
+    }
+  ]
+}
